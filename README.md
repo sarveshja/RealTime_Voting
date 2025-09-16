@@ -1,6 +1,6 @@
 # Voting App (Node.js + Express + Prisma + PostgreSQL + JWT + Socket.IO)
 
-This is a full-stack backend API for creating polls, voting, and receiving real-time vote updates.
+```This is a full-stack backend API for creating polls, voting, and receiving real-time vote updates.
 It uses:
 - Node.js / Express.js
 - PostgreSQL via Prisma ORM
@@ -131,4 +131,4 @@ node_modules, .env and prisma/migrations/ are gitignored, so clone and run npx p
 
 Use Postman or curl to test endpoints, or fetch from browser console.
 
-Socket.IO client library is available via CDN.
+Socket.IO client library is available via CDN.```
