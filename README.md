@@ -111,8 +111,7 @@ Include the Socket.IO client in your frontend or browser console:
 Whenever someone votes on poll 1, all clients who joined that poll room will receive the vote_update event with updated counts.
 
 📁 Project Structure
-graphql
-Copy code
+
 src/
   index.js           # main server file (Express + Socket.IO)
   routes/
